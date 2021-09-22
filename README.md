@@ -1,6 +1,9 @@
-# lootloose.com
+# Adventures Loose
 
-LootLoose lets you unbundle your Loot Bags into individual item NFTs or rebundle items into their original Loot Bags. Front-end accompanying [@gakonst/lootloose](https://github.com/gakonst/lootloose).
+### <h4 align="center"> Forked from Anish's [LootLoose.com](https://github.com/Anish-Agnihotri/lootloose.com) </h4>
+
+
+AdventureLoose lets you unbundle your 0xAdventures Card Decks into individual item NFTs or rebundle items into their original decks. Front-end accompanying [@abigger87/0xAdventureLoose](https://github.com/abigger87/0xAdventureLoose).
 
 ## Run locally
 
@@ -17,12 +20,13 @@ npm run dev
 
 ## Credits
 
-- [Loot subgraph](https://github.com/shahruz/loot-subgraph) by @shahruz
+
+<!-- - [Loot subgraph](https://github.com/shahruz/loot-subgraph) by @shahruz -->
 - [useWallet](https://github.com/scotato/inventory/blob/main/src/hooks/use-wallet.tsx) by @scotato
 - Design inspiration from [Gods Unchained](https://godsunchained.com/)
-- [loot-rarity](https://github.com/bpierre/loot-rarity) from @bpierre
+<!-- - [loot-rarity](https://github.com/bpierre/loot-rarity) from @bpierre -->
 - [SVGRepo](https://www.svgrepo.com/) for project logo
-- Dom for Loot
+- [🧙‍♂️ pm](https://twitter.com/pm) for 0xAdventures
 - [WallpaperCave](https://wallpapercave.com) for Runescape background
 
 ## Disclaimer
